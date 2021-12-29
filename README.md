@@ -53,9 +53,6 @@ Purpose of this all is to see if I can leave my current webhosting provider whic
 <hr />
 
 <p align="center">
- These should at some point return search result to this repo main index and second page.
- <br />
- 
- Setup on 29th December 2021
- 
+ These should at some point return search result to this repo main index and second page. Setup on 29th December 2021
  </p>
+ 
