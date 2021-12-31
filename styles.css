@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(194, 159, 228);
+    background-color: rgb(232, 75, 238);
     margin: 0;
     padding: 0;
     width: 100%;
@@ -20,7 +20,7 @@ h1 {
 }
 
 a {
-    font-size: 3rem;
+    font-size: 1rem;
     text-decoration: none;
     color: yellow;
 }
@@ -30,4 +30,47 @@ a:hover {
 }
 a:active {
     color: red;
+}
+
+
+
+
+hr {
+
+    width: 100%;
+}
+
+
+
+
+
+.links {
+    color: red;
+    font-size: 1.5rem;
+}
+
+.links:hover {
+    color: green;
+}
+
+.links:active {
+    color: green;
+}
+
+
+.showNot {
+    display: none;
+}
+
+.navigation {
+    width: 100%;
+    background-color: green;
+
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-evenly;
+    
+    
+
 }
