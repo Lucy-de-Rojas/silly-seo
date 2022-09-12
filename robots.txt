@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://lucy-de-rojas.github.io/silly-seo/index.html
+Host: https://lucy-de-rojas.github.io/silly-seo/
 
 # Sitemaps
 Sitemap: https://lucy-de-rojas.github.io/silly-seo/sitemap.xml
